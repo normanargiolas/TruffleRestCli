@@ -1,0 +1,61 @@
+{
+  "_from": "truffle_rest_cli",
+  "_id": "truffle_rest_cli@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Zd84Nj6lgPe4+yma5RLMGZCQHfy7rarPL1Ea2X4C9L36VbfsmnwbWF+09oRJgyoKq2YfmjnopgbOZpX3NlXWIg==",
+  "_location": "/truffle_rest_cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "truffle_rest_cli",
+    "name": "truffle_rest_cli",
+    "escapedName": "truffle_rest_cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/truffle_rest_cli/-/truffle_rest_cli-1.0.0.tgz",
+  "_shasum": "564d7eb5bb74d8390c4f89887fc53014b98d2575",
+  "_spec": "truffle_rest_cli",
+  "_where": "/media/Dati/github/TruffleRestBox",
+  "author": {
+    "name": "Norman Argiolas"
+  },
+  "bugs": {
+    "url": "https://github.com/normanargiolas/TruffleRestCli/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Modules for TruffleRestBox",
+  "homepage": "https://github.com/normanargiolas/TruffleRestCli#readme",
+  "keywords": [
+    "truffle",
+    "rest",
+    "express"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "truffle_rest_cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanargiolas/TruffleRestCli.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=8.11.1"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "version": "0.0.2"
+}
