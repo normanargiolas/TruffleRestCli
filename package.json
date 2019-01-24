@@ -1,6 +1,6 @@
 {
   "name": "truffle_rest_cli",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Modules for TruffleRestBox",
   "main": "index.js",
   "directories": {
