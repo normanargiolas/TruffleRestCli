@@ -1,0 +1,36 @@
+{
+  "name": "truffle_rest_cli",
+  "version": "0.0.1",
+  "description": "Modules for TruffleRestBox",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanargiolas/TruffleRestCli.git"
+  },
+  "keywords": [
+    "truffle",
+    "rest",
+    "express"
+  ],
+  "author": "Norman Argiolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanargiolas/TruffleRestCli/issues"
+  },
+  "homepage": "https://github.com/normanargiolas/TruffleRestCli#readme",
+  "engines": {
+    "node": ">=8.11.1"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ]
+}
