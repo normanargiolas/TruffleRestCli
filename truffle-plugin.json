@@ -1,5 +1,5 @@
 {
   "commands": {
-    "hello": "index.js"
+    "hello": "hello.js"
   }
 }
